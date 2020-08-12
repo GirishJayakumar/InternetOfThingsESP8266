@@ -40,7 +40,7 @@ void connectWiFiUI() {
   tft.setCursor(20, 80);
   tft.print("Connecting...");
   tft.setCursor(20, 120);
-  tft.print("Monish Kapadia");
+  tft.print("Girish Jayakumar");
 }
 
 void drawProgress(int percentage) {
