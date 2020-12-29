@@ -17,7 +17,7 @@ void id_page_1() {
   tft.setCursor(10, 80);
   tft.setTextSize(1);
   tft.setTextColor(ST77XX_WHITE, ST77XX_RED);
-  tft.println("Name:Monish Kapadia");
+  tft.println("Name: Girish Jayakumar");
   tft.setCursor(10, 95);
   tft.println("Age:24 years");
   tft.setCursor(10, 110);
